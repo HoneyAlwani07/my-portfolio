@@ -1,7 +1,7 @@
 # my-portfolio
 💜 My Personal Portfolio
 Hello! 👋 This is my first personal portfolio website. I built it during my 1st semester of BSCS (Bachelor of Computer Science) about 4-5 months ago.
-
+Live Demo: https://honeyfirstprojectherportfolio.netlify.app/
 📌 About This Project
 When I started my first semester, I wanted to build something real — not just learn from videos. So I made this portfolio using whatever HTML, and CSS.
 
